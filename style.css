@@ -1,0 +1,45 @@
+{
+	margin: 0;
+	padding: 0;
+
+}
+
+Body{
+	
+	font-family: Times New Romen;
+	font-size: 12pt;
+	background-color: #555;
+	color: #fff;
+	margin: 0 auto;
+	padding: 20px 200px;
+	line-height:1.6em;
+}
+head{
+	margin: 0;
+}
+.myimg{
+	width:300px;
+  	height:300px;
+  	background-image: url( https://images.unsplash.com/photo-1563805042-7684c019e1cb);
+	background-size:cover;
+	background-position:center;
+	border-radius:50%;
+}
+.center 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+span{
+	text-align: center;
+	font-size: 30px;
+	margin: 0 30px;
+}
+a:link{
+	color: white;
+}
+a:visited{
+	color: white;
+}
